@@ -32,3 +32,10 @@ header > p{
     transform: translateY(-41%);
     /* opacity: 0; */
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
